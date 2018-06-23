@@ -18,10 +18,10 @@ QQ群：343313447.
 ## 截图
 
 首页长这样：
-![index](https://github.com/metheno/kibou_lite/blob/master/screenshot.png)
+![index](https://raw.githubusercontent.com/metheno/kibou_lite/v0.1.7.2/screenshot.png)
 
 文章页长这样：
-![post](https://github.com/metheno/kibou_lite/blob/master/screenshot1.png)
+![post](https://raw.githubusercontent.com/metheno/kibou_lite/v0.1.7.2/screenshot1.png)
 
 Note: 背景可在 style.css 里修改
 
